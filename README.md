@@ -12,3 +12,7 @@
 <li>Vimos que é fácil se esquecer de chamar o delete
 <li>Conhecemos o <i>unique_ptr</i>
 <li>Vimos o uso do <i>shared_ptr</i>
+<li>Entendemos como cópia de dados pode ser custoso para o sistema
+<li>Aprendemos a analisar as cópias de nossos objetos
+<li>Criamos nosso primeiro copy constructor
+<li>Entendemos quando um copy constructor pode ser útil
