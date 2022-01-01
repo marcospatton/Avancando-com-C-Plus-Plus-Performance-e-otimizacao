@@ -8,3 +8,7 @@
 <li>Conhecemos os métodos find e substr
 <li>Entendemos como funciona Small String Optimization
 <li>Aprendemos a usar <i>string_view</i> para pegar partes de strings
+<li>Entendemos os problemas de gerenciar memória
+<li>Vimos que é fácil se esquecer de chamar o delete
+<li>Conhecemos o unique_ptr
+<li>Vimos o uso do shared_ptr
