@@ -16,3 +16,6 @@
 <li>Aprendemos a analisar as cópias de nossos objetos
 <li>Criamos nosso primeiro copy constructor
 <li>Entendemos quando um copy constructor pode ser útil
+<li>Aprendemos que há tipos de valores diferentes <i>(l-values e r-values)</i>
+<li>Conhecemos na prática a diferença entre <i>l-values</i> e <i>r-values</i>
+<li>Vimos como receber referências para <i>l-values</i> e <i>r-values</i>
