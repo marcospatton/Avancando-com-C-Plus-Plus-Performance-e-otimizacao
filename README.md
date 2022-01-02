@@ -19,3 +19,7 @@
 <li>Aprendemos que há tipos de valores diferentes <i>(l-values e r-values)</i>
 <li>Conhecemos na prática a diferença entre <i>l-values</i> e <i>r-values</i>
 <li>Vimos como receber referências para <i>l-values</i> e <i>r-values</i>
+<li>Entendemos o que é move semantics
+<li>Implementamos nosso primeiro move constructor
+<li>Entendemos como funciona a função <i> std::move</i>
+<li>Aprendemos sobre as regras de 0, 3 e 5
